@@ -1,0 +1,15 @@
+<div style="padding-left: 20px; padding-right: 20px;"> 
+    <h1>Events</h1>
+    <hr/>
+    <ul class="thumbnails">
+        <li ng-repeat="event in events|orderBy:sortorder" class="span5">
+
+           <event-thumbnail my-event="event" /> 
+
+        </li>
+		
+   
+    </ul>
+</div>
+
+

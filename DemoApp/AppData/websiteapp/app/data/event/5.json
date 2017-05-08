@@ -1,0 +1,12 @@
+{
+  "name": "Dish 2 Event",
+  "date": "12/12/1212",
+  "id": 5,
+  "time": "12.00",
+  "location": {
+    "address": "12 Broadway",
+    "city": "Los Angeles",
+    "province": "Cal"
+  },
+  "imageUrl": "http://cdn.24.co.za/files/Cms/General/d/2193/a2bb433190264338a35a073a7abbe349.jpg"
+}
